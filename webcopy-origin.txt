@@ -1,0 +1,20 @@
+Uri: https://fantom.zilab.co/
+File Name: C:\Downloaded Web Sites 4art\fantom.zilab.co\index.htm
+Content Type: text/html
+
+Uri: https://fantom.zilab.co/favicon.png
+File Name: C:\Downloaded Web Sites 4art\fantom.zilab.co\favicon.png
+Content Type: image/png
+
+Uri: https://fantom.zilab.co/assets/index.2528c871.css
+File Name: C:\Downloaded Web Sites 4art\fantom.zilab.co\assets\index.2528c871.css
+Content Type: text/css
+
+Uri: https://fantom.zilab.co/assets/index.90407d2f.js
+File Name: C:\Downloaded Web Sites 4art\fantom.zilab.co\assets\index.90407d2f.js
+Content Type: application/javascript
+
+Uri: https://fantom.zilab.co/images/back.png
+File Name: C:\Downloaded Web Sites 4art\fantom.zilab.co\images\back.png
+Content Type: image/png
+
